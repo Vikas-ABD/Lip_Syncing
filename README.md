@@ -7,13 +7,15 @@ This repository provides an implementation of Wav2Lip, a lip-syncing model that 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Vikas-ABD/Lip_Syncing.git
+   ```
    cd Lip_Syncing
 
 ## Prerequisites
 - Python 3.6
 - Install ffmpeg:
   ```bash
-   sudo apt-get install ffmpeg
+     sudo apt-get install ffmpeg
+     ```
 ## Install Necessary Packages
 
 ```bash
