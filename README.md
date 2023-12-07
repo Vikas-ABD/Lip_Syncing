@@ -13,11 +13,11 @@ This repository provides an implementation of Wav2Lip, a lip-syncing model that 
 - Python 3.6
 - Install ffmpeg:
   ```bash
-sudo apt-get install ffmpeg
+   sudo apt-get install ffmpeg
 ## Install Necessary Packages
 
 ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 ## Download Pre-trained Models
 
