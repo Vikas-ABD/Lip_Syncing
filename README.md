@@ -62,7 +62,7 @@ To gain a clearer understanding of the lip-syncing process, explore the provided
    - Explore this notebook for more advanced lip-syncing techniques and scenarios.
    - It may include additional features, use cases, or optimizations.
 
-Feel free to run these notebooks in your local environment for a hands-on experience.
+Feel free to run these notebooks in your colab for a hands-on experience.
 
 
 
